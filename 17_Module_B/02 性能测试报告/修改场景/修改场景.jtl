@@ -1,0 +1,1164 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1758005479708,635,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,631,0,573
+1758005479649,635,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,631,82,573
+1758005480368,60,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,59,0,0
+1758005480368,60,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,59,4,0
+1758005480432,64,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,64,0,0
+1758005480432,64,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,64,0,0
+1758005480529,55,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,55,0,0
+1758005480496,55,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,55,41,0
+1758005480593,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005480592,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,2,0
+1758005480659,2,调试取样器,200,OK,线程组 1-1,text,true,,471,0,1,1,null,0,0,0
+1758005480661,51,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,51,0,0
+1758005480661,51,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,51,1,0
+1758005480713,55,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,55,0,0
+1758005480713,55,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,55,1,0
+1758005480769,61,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,61,0,0
+1758005480769,61,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,61,0,0
+1758005480831,62,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,62,0,0
+1758005480831,62,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,62,2,0
+1758005480895,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005480895,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,0,0
+1758005480945,1,调试取样器,200,OK,线程组 1-1,text,true,,471,0,1,1,null,0,0,0
+1758005480946,50,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,50,0,0
+1758005480946,50,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,50,0,0
+1758005480996,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005480996,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,0,0
+1758005481049,60,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,60,0,0
+1758005481049,60,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,60,1,0
+1758005481110,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005481110,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,2,0
+1758005481165,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005481165,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,0,0
+1758005481215,0,调试取样器,200,OK,线程组 1-1,text,true,,471,0,1,1,null,0,0,0
+1758005481216,48,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,48,0,0
+1758005481216,48,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,48,1,0
+1758005481265,56,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,56,0,0
+1758005481265,56,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,56,2,0
+1758005481323,56,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,56,0,0
+1758005481323,56,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,56,0,0
+1758005481380,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005481379,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,2,0
+1758005481435,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005481434,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,1,0
+1758005481485,0,调试取样器,200,OK,线程组 1-1,text,true,,471,0,1,1,null,0,0,0
+1758005481486,48,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,48,0,0
+1758005481485,48,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,48,2,0
+1758005481535,54,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005481535,54,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,54,1,0
+1758005481591,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,57,0,0
+1758005481590,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,57,1,0
+1758005481648,56,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,56,0,0
+1758005481648,56,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,56,2,0
+1758005481706,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,48,0,0
+1758005481706,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,48,0,0
+1758005481755,0,调试取样器,200,OK,线程组 1-1,text,true,,471,0,1,1,null,0,0,0
+1758005481755,53,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,53,0,0
+1758005481755,53,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,53,1,0
+1758005481809,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005481809,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,1,0
+1758005481863,59,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,59,0,0
+1758005481863,59,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,59,1,0
+1758005481923,54,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005481923,54,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,54,2,0
+1758005481979,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005481979,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,1,0
+1758005482029,0,调试取样器,200,OK,线程组 1-1,text,true,,471,0,1,1,null,0,0,0
+1758005482029,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005482029,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,1,0
+1758005482079,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005482079,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,1,0
+1758005482133,58,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,58,0,0
+1758005482133,58,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,58,0,0
+1758005482192,52,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005482191,52,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,52,2,0
+1758005482245,53,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,53,0,0
+1758005482245,53,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,53,0,0
+1758005482298,0,调试取样器,200,OK,线程组 1-1,text,true,,471,0,1,1,null,0,0,0
+1758005482298,48,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,48,0,0
+1758005482298,48,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,48,1,0
+1758005482347,54,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005482347,54,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,54,1,0
+1758005482402,61,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,61,0,0
+1758005482402,61,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,61,1,0
+1758005482464,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005482464,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,2,0
+1758005482519,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005482519,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005482568,1,调试取样器,200,OK,线程组 1-1,text,true,,471,0,1,1,null,0,0,0
+1758005482569,48,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,48,0,0
+1758005482569,48,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,48,1,0
+1758005482618,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005482618,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,0,0
+1758005482670,60,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,60,0,0
+1758005482670,60,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,60,0,0
+1758005482731,62,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,62,0,0
+1758005482730,62,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,62,2,0
+1758005482795,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005482795,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005482845,0,调试取样器,200,OK,线程组 1-1,text,true,,471,0,1,1,null,0,0,0
+1758005482845,52,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,52,0,0
+1758005482845,52,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,52,1,0
+1758005482898,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005482898,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,1,0
+1758005482952,59,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,59,0,0
+1758005482952,59,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,59,0,0
+1758005483012,54,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005483011,54,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,54,2,0
+1758005483067,52,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,52,0,0
+1758005483067,52,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,52,0,0
+1758005483119,0,调试取样器,200,OK,线程组 1-1,text,true,,471,0,1,1,null,0,0,0
+1758005483119,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005483119,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,1,0
+1758005483169,55,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,55,0,0
+1758005483169,55,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,55,0,0
+1758005483225,59,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,59,0,0
+1758005483224,59,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,59,2,0
+1758005483285,54,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005483285,54,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,54,2,0
+1758005483341,54,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,54,0,0
+1758005483341,54,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,54,0,0
+1758005483395,1,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005483396,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005483396,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005483445,57,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,57,0,0
+1758005483445,57,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,57,1,0
+1758005483503,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,57,0,0
+1758005483503,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,57,0,0
+1758005483561,54,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005483561,54,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,54,1,0
+1758005483616,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005483616,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,0,0
+1758005483666,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005483666,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005483666,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005483715,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005483715,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,0,0
+1758005483769,62,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,62,0,0
+1758005483769,62,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,62,0,0
+1758005483831,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005483831,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,1,0
+1758005483885,52,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,52,0,0
+1758005483885,52,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,52,1,0
+1758005483938,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005483938,52,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,52,0,0
+1758005483938,52,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,52,1,0
+1758005483991,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005483991,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,0,0
+1758005484043,57,HTTP请求,400,,线程组 1-1,text,false,,780,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,56,0,0
+1758005484043,57,新增试卷,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,780,1088,1,1,null,56,0,0
+1758005484101,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005484100,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,2,0
+1758005484155,51,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,51,0,0
+1758005484155,51,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,51,0,0
+1758005484206,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005484206,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005484206,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005484255,56,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,55,0,0
+1758005484255,56,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,55,0,0
+1758005484311,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,57,0,0
+1758005484311,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,57,0,0
+1758005484368,55,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,55,0,0
+1758005484368,55,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,55,1,0
+1758005484424,51,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,51,0,0
+1758005484424,51,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,51,0,0
+1758005484475,1,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005484476,50,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,50,0,0
+1758005484476,50,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,50,0,0
+1758005484526,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005484526,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,0,0
+1758005484578,55,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,55,0,0
+1758005484578,55,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,55,0,0
+1758005484634,57,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,57,0,0
+1758005484633,57,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,57,2,0
+1758005484692,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005484692,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005484742,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005484742,50,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,50,0,0
+1758005484742,50,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,50,1,0
+1758005484793,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005484793,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,0,0
+1758005484846,53,HTTP请求,400,,线程组 1-1,text,false,,780,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,53,0,0
+1758005484845,53,新增试卷,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,780,1088,1,1,null,53,1,0
+1758005484899,52,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005484899,52,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,52,1,0
+1758005484953,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005484952,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,1,0
+1758005485003,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005485003,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005485003,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005485052,55,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,55,0,0
+1758005485052,55,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,55,0,0
+1758005485107,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,57,0,0
+1758005485107,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,57,1,0
+1758005485165,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005485165,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,1,0
+1758005485219,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005485219,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005485269,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005485269,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005485269,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005485318,54,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005485318,54,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,54,0,0
+1758005485372,56,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,55,0,0
+1758005485372,56,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,55,0,0
+1758005485428,52,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005485428,52,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,52,2,0
+1758005485482,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005485482,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005485531,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005485532,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,48,0,0
+1758005485531,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,48,1,0
+1758005485581,57,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,57,0,0
+1758005485581,57,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,57,1,0
+1758005485639,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,57,0,0
+1758005485639,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,57,0,0
+1758005485697,54,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005485696,54,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,54,2,0
+1758005485752,50,HTTP请求,200,,线程组 1-1,text,true,,462,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005485752,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,462,334,1,1,null,49,0,0
+1758005485802,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005485803,218,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,217,0,168
+1758005485803,218,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,217,0,168
+1758005486021,54,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005486021,54,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,54,0,0
+1758005486075,56,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,56,0,0
+1758005486075,56,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,56,0,0
+1758005486131,62,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,62,0,0
+1758005486131,62,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,62,1,0
+1758005486194,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005486194,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005486244,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005486244,51,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,51,0,0
+1758005486244,51,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,51,0,0
+1758005486295,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005486295,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,0,0
+1758005486348,60,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,60,0,0
+1758005486348,60,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,60,0,0
+1758005486409,55,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,55,0,0
+1758005486408,55,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,55,2,0
+1758005486465,51,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,51,0,0
+1758005486465,51,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,51,0,0
+1758005486516,1,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005486517,54,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,54,0,0
+1758005486517,54,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,54,1,0
+1758005486572,56,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,56,0,0
+1758005486572,56,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,56,0,0
+1758005486628,56,HTTP请求,400,,线程组 1-1,text,false,,780,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,56,0,0
+1758005486628,56,新增试卷,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,780,1088,1,1,null,56,0,0
+1758005486684,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005486684,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,1,0
+1758005486738,51,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,51,0,0
+1758005486738,51,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,51,1,0
+1758005486790,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005486790,52,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,52,0,0
+1758005486790,52,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,52,1,0
+1758005486843,55,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,55,0,0
+1758005486843,55,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,55,0,0
+1758005486899,54,HTTP请求,400,,线程组 1-1,text,false,,780,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,54,0,0
+1758005486898,54,新增试卷,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,780,1088,1,1,null,54,1,0
+1758005486953,56,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,56,0,0
+1758005486953,56,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,56,1,0
+1758005487010,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005487010,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,0,0
+1758005487060,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005487061,52,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,52,0,0
+1758005487060,52,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,52,1,0
+1758005487113,54,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005487113,54,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,54,0,0
+1758005487167,60,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,60,0,0
+1758005487167,60,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,60,0,0
+1758005487227,54,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005487227,54,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,54,1,0
+1758005487282,52,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,52,0,0
+1758005487282,52,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,52,0,0
+1758005487334,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005487334,51,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,51,0,0
+1758005487334,51,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,51,0,0
+1758005487385,54,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005487385,54,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,54,1,0
+1758005487440,59,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,59,0,0
+1758005487440,59,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,59,0,0
+1758005487499,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005487499,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,1,0
+1758005487553,52,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,52,0,0
+1758005487553,52,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,52,0,0
+1758005487605,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005487605,50,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,50,0,0
+1758005487605,50,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,50,0,0
+1758005487655,57,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,57,0,0
+1758005487655,57,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,57,1,0
+1758005487713,58,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,58,0,0
+1758005487713,58,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,58,1,0
+1758005487772,59,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,59,0,0
+1758005487772,59,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,59,1,0
+1758005487832,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005487832,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,0,0
+1758005487882,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005487883,85,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,85,0,0
+1758005487883,85,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,85,1,0
+1758005487969,55,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,55,0,0
+1758005487969,55,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,55,0,0
+1758005488024,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,57,0,0
+1758005488024,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,57,0,0
+1758005488082,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005488081,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,3,0
+1758005488137,51,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,51,0,0
+1758005488137,51,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,51,1,0
+1758005488189,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005488189,50,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,50,0,0
+1758005488189,50,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,50,0,0
+1758005488239,64,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,64,0,0
+1758005488239,64,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,64,0,0
+1758005488303,61,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,61,0,0
+1758005488303,61,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,61,0,0
+1758005488364,55,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,55,0,0
+1758005488364,55,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,55,1,0
+1758005488420,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005488420,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005488470,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005488470,50,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,50,0,0
+1758005488470,50,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,50,3,0
+1758005488523,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005488523,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,0,0
+1758005488576,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,57,0,0
+1758005488576,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,57,0,0
+1758005488634,54,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005488633,54,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,54,3,0
+1758005488690,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005488690,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,0,0
+1758005488740,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005488741,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005488741,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005488790,54,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005488790,54,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,54,0,0
+1758005488844,59,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,59,0,0
+1758005488844,59,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,59,0,0
+1758005488904,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005488903,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,2,0
+1758005488958,52,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,52,0,0
+1758005488958,52,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,52,0,0
+1758005489010,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005489010,50,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,50,0,0
+1758005489010,50,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,50,1,0
+1758005489061,55,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,55,0,0
+1758005489061,55,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,55,1,0
+1758005489117,58,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,58,0,0
+1758005489117,58,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,58,0,0
+1758005489176,56,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,56,0,0
+1758005489175,56,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,56,2,0
+1758005489233,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005489233,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005489283,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005489283,51,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,51,0,0
+1758005489283,51,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,51,1,0
+1758005489335,57,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,57,0,0
+1758005489335,57,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,57,1,0
+1758005489393,63,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,63,0,0
+1758005489393,63,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,63,1,0
+1758005489457,56,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,55,0,0
+1758005489457,56,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,55,1,0
+1758005489514,53,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,53,0,0
+1758005489514,53,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,53,0,0
+1758005489567,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005489567,53,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,53,0,0
+1758005489567,53,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,53,0,0
+1758005489620,56,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,56,0,0
+1758005489620,56,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,56,0,0
+1758005489677,59,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,59,0,0
+1758005489676,59,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,59,1,0
+1758005489737,54,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005489736,54,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,54,2,0
+1758005489793,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005489792,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,1,0
+1758005489843,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005489843,54,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,54,0,0
+1758005489843,54,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,54,0,0
+1758005489897,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005489897,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,0,0
+1758005489950,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,57,0,0
+1758005489950,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,57,2,0
+1758005490009,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005490009,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,1,0
+1758005490064,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005490063,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,1,0
+1758005490114,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005490114,50,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,50,0,0
+1758005490114,50,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,50,0,0
+1758005490164,56,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,56,0,0
+1758005490164,56,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,56,0,0
+1758005490220,56,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,56,0,0
+1758005490220,56,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,56,0,0
+1758005490277,56,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,56,0,0
+1758005490276,56,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,56,2,0
+1758005490334,56,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,56,0,0
+1758005490334,56,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,56,0,0
+1758005490390,1,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005490391,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005490391,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005490441,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005490440,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,1,0
+1758005490494,59,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,59,0,0
+1758005490494,59,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,59,0,0
+1758005490554,54,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005490553,54,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,54,2,0
+1758005490609,51,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,51,0,0
+1758005490609,51,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,51,0,0
+1758005490660,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005490660,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005490660,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005490709,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005490709,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,1,0
+1758005490763,63,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,63,0,0
+1758005490763,63,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,63,1,0
+1758005490827,55,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005490827,56,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,54,0,0
+1758005490883,53,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,53,0,0
+1758005490883,53,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,53,0,0
+1758005490936,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005490936,53,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,53,0,0
+1758005490936,53,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,53,1,0
+1758005490990,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005490990,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,1,0
+1758005491043,60,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,60,0,0
+1758005491043,60,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,60,0,0
+1758005491103,56,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,56,0,0
+1758005491103,56,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,56,1,0
+1758005491160,51,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,51,0,0
+1758005491160,51,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,51,0,0
+1758005491211,1,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005491212,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005491212,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005491261,55,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,55,0,0
+1758005491261,55,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,55,0,0
+1758005491316,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,57,0,0
+1758005491316,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,57,0,0
+1758005491374,54,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005491373,54,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,54,2,0
+1758005491429,50,HTTP请求,200,,线程组 1-1,text,true,,462,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005491429,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,462,334,1,1,null,50,0,0
+1758005491479,1,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005491480,196,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,196,0,147
+1758005491480,196,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,196,0,147
+1758005491676,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005491676,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,1,0
+1758005491729,60,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,60,0,0
+1758005491729,60,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,60,0,0
+1758005491790,52,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005491789,52,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,52,2,0
+1758005491843,53,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,53,0,0
+1758005491843,53,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,53,0,0
+1758005491896,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005491896,50,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,50,0,0
+1758005491896,50,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,50,0,0
+1758005491946,55,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,55,0,0
+1758005491946,55,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,55,0,0
+1758005492001,56,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,56,0,0
+1758005492001,56,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,56,0,0
+1758005492058,55,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,55,0,0
+1758005492057,55,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,55,2,0
+1758005492114,53,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,53,0,0
+1758005492114,53,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,53,0,0
+1758005492167,1,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005492168,51,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,51,0,0
+1758005492168,51,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,51,0,0
+1758005492219,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005492219,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,1,0
+1758005492273,58,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,58,0,0
+1758005492273,58,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,58,0,0
+1758005492332,60,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,60,0,0
+1758005492331,60,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,60,2,0
+1758005492394,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005492393,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,1,0
+1758005492445,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005492445,50,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,50,0,0
+1758005492445,50,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,50,1,0
+1758005492496,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005492496,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,1,0
+1758005492549,56,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,56,0,0
+1758005492549,56,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,56,0,0
+1758005492606,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005492605,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,2,0
+1758005492660,52,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,52,0,0
+1758005492660,52,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,52,0,0
+1758005492712,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005492712,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005492712,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005492762,55,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,55,0,0
+1758005492761,55,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,55,1,0
+1758005492818,55,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,55,0,0
+1758005492817,55,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,55,1,0
+1758005492874,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005492873,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,2,0
+1758005492928,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005492928,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005492977,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005492977,51,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,51,0,0
+1758005492977,51,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,51,0,0
+1758005493028,55,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,55,0,0
+1758005493028,55,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,55,0,0
+1758005493083,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,57,0,0
+1758005493083,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,57,0,0
+1758005493141,54,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005493140,54,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,54,2,0
+1758005493196,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005493196,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,0,0
+1758005493246,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005493246,51,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,51,0,0
+1758005493246,51,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,51,1,0
+1758005493298,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005493298,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,0,0
+1758005493350,53,HTTP请求,400,,线程组 1-1,text,false,,780,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,53,0,0
+1758005493350,53,新增试卷,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,780,1088,1,1,null,53,1,0
+1758005493404,54,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005493404,54,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,54,1,0
+1758005493459,57,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,57,0,0
+1758005493459,57,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,57,0,0
+1758005493516,1,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005493517,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005493517,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005493566,54,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005493566,54,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,54,0,0
+1758005493620,56,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,56,0,0
+1758005493620,56,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,56,0,0
+1758005493676,57,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,57,0,0
+1758005493676,57,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,57,1,0
+1758005493734,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005493734,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,0,0
+1758005493784,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005493784,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005493784,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005493834,54,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005493833,54,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,54,2,0
+1758005493889,61,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,61,0,0
+1758005493889,61,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,61,0,0
+1758005493950,57,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,57,0,0
+1758005493950,57,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,57,1,0
+1758005494008,51,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,51,0,0
+1758005494008,51,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,51,0,0
+1758005494059,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005494059,51,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,51,0,0
+1758005494059,51,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,51,0,0
+1758005494111,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005494110,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,1,0
+1758005494164,59,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,59,0,0
+1758005494164,59,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,59,0,0
+1758005494223,57,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,57,0,0
+1758005494223,57,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,57,1,0
+1758005494281,51,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,51,0,0
+1758005494281,51,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,51,0,0
+1758005494333,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005494333,50,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,50,0,0
+1758005494333,50,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,50,0,0
+1758005494383,58,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,58,0,0
+1758005494383,58,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,58,0,0
+1758005494441,60,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,60,0,0
+1758005494441,60,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,60,0,0
+1758005494502,57,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,57,0,0
+1758005494501,57,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,57,2,0
+1758005494560,53,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,53,0,0
+1758005494560,53,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,53,1,0
+1758005494614,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005494614,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005494614,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005494663,57,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,57,0,0
+1758005494663,57,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,57,0,0
+1758005494720,59,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,59,0,0
+1758005494720,59,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,59,0,0
+1758005494779,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005494779,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,1,0
+1758005494833,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005494833,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005494882,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005494883,48,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,48,0,0
+1758005494882,48,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,48,2,0
+1758005494932,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005494932,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,0,0
+1758005494985,54,HTTP请求,400,,线程组 1-1,text,false,,780,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,54,0,0
+1758005494984,54,新增试卷,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,780,1088,1,1,null,54,1,0
+1758005495039,54,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005495039,54,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,54,1,0
+1758005495094,51,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,51,0,0
+1758005495094,51,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,51,0,0
+1758005495145,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005495145,50,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,50,0,0
+1758005495145,50,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,50,1,0
+1758005495196,56,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,56,0,0
+1758005495196,56,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,56,0,0
+1758005495252,60,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,60,0,0
+1758005495252,60,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,60,0,0
+1758005495312,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005495312,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,1,0
+1758005495367,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005495366,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,1,0
+1758005495416,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005495416,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005495416,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,1,0
+1758005495466,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005495466,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,1,0
+1758005495520,55,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,55,0,0
+1758005495520,55,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,55,0,0
+1758005495576,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005495575,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,2,0
+1758005495630,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005495630,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,1,0
+1758005495680,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005495680,50,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,50,0,0
+1758005495680,50,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,50,0,0
+1758005495730,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005495730,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,0,0
+1758005495783,55,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,55,0,0
+1758005495783,55,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,55,0,0
+1758005495839,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005495838,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,2,0
+1758005495893,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005495893,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,0,0
+1758005495943,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005495943,51,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,51,0,0
+1758005495943,51,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,51,1,0
+1758005495995,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005495995,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,0,0
+1758005496047,62,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,62,0,0
+1758005496047,62,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,62,0,0
+1758005496110,52,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005496109,52,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,52,2,0
+1758005496163,51,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,51,0,0
+1758005496163,51,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,51,0,0
+1758005496214,1,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005496215,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005496215,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005496264,54,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005496264,54,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,54,0,0
+1758005496319,58,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,58,0,0
+1758005496318,58,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,58,1,0
+1758005496378,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005496377,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,2,0
+1758005496432,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005496432,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,1,0
+1758005496483,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005496483,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005496483,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,1,0
+1758005496533,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005496533,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,0,0
+1758005496587,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,56,0,0
+1758005496586,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,56,1,0
+1758005496644,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005496644,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,1,0
+1758005496698,51,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,51,0,0
+1758005496698,51,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,51,0,0
+1758005496749,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005496749,50,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,50,0,0
+1758005496749,50,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,50,1,0
+1758005496800,54,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005496800,54,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,54,0,0
+1758005496854,58,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,58,0,0
+1758005496854,58,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,58,0,0
+1758005496912,56,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,56,0,0
+1758005496912,56,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,56,0,0
+1758005496969,50,HTTP请求,200,,线程组 1-1,text,true,,462,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005496968,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,462,334,1,1,null,50,1,0
+1758005497019,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005497020,194,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,194,0,142
+1758005497019,194,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,194,1,142
+1758005497214,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005497214,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,1,0
+1758005497268,58,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,58,0,0
+1758005497268,58,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,58,0,0
+1758005497327,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005497327,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,1,0
+1758005497381,48,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,48,0,0
+1758005497381,48,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,48,0,0
+1758005497429,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005497429,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005497429,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005497479,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005497478,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,2,0
+1758005497533,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,57,0,0
+1758005497533,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,57,0,0
+1758005497591,52,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005497590,52,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,52,2,0
+1758005497644,52,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,51,0,0
+1758005497644,52,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,51,0,0
+1758005497696,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005497696,48,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,48,0,0
+1758005497696,48,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,48,0,0
+1758005497744,54,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005497744,54,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,54,0,0
+1758005497798,58,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,58,0,0
+1758005497798,58,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,58,0,0
+1758005497856,114,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,113,0,0
+1758005497856,114,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,113,0,0
+1758005497971,48,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,48,0,0
+1758005497970,48,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,48,1,0
+1758005498019,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005498020,48,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,48,0,0
+1758005498020,48,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,48,0,0
+1758005498068,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005498068,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,0,0
+1758005498121,56,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,56,0,0
+1758005498121,56,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,56,0,0
+1758005498177,52,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005498177,52,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,52,1,0
+1758005498230,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005498230,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005498279,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005498279,51,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,51,0,0
+1758005498279,51,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,51,0,0
+1758005498330,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005498330,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,1,0
+1758005498384,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,57,0,0
+1758005498384,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,57,0,0
+1758005498442,58,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,58,0,0
+1758005498441,58,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,58,2,0
+1758005498501,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005498501,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,0,0
+1758005498551,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005498551,50,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005498551,50,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005498601,59,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,59,0,0
+1758005498601,59,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,59,0,0
+1758005498660,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,57,0,0
+1758005498660,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,57,0,0
+1758005498718,51,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,51,0,0
+1758005498717,51,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,51,2,0
+1758005498770,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005498770,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005498819,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005498819,50,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,50,0,0
+1758005498819,50,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,50,0,0
+1758005498869,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005498869,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,0,0
+1758005498922,59,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,59,0,0
+1758005498921,59,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,59,1,0
+1758005498981,52,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005498981,52,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,52,1,0
+1758005499034,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005499034,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,0,0
+1758005499084,1,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005499085,48,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,48,0,0
+1758005499085,48,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,48,0,0
+1758005499133,54,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005499133,54,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,54,1,0
+1758005499188,56,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,56,0,0
+1758005499188,56,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,56,0,0
+1758005499244,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005499244,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,1,0
+1758005499298,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005499298,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005499347,1,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005499348,50,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,50,0,0
+1758005499348,50,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,50,0,0
+1758005499398,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005499398,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,1,0
+1758005499451,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,57,0,0
+1758005499451,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,57,0,0
+1758005499508,54,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005499508,54,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,54,1,0
+1758005499563,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005499563,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005499612,1,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005499613,48,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,48,0,0
+1758005499613,48,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,48,1,0
+1758005499662,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005499662,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,0,0
+1758005499714,56,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,56,0,0
+1758005499714,56,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,56,0,0
+1758005499771,55,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,55,0,0
+1758005499770,55,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,55,2,0
+1758005499827,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005499827,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005499876,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005499876,48,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,48,0,0
+1758005499876,48,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,48,0,0
+1758005499924,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005499924,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,0,0
+1758005499977,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,57,0,0
+1758005499977,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,57,0,0
+1758005500035,54,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005500034,54,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,54,2,0
+1758005500090,53,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,53,0,0
+1758005500090,53,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,53,0,0
+1758005500143,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005500143,51,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,51,0,0
+1758005500143,51,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,51,0,0
+1758005500194,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005500194,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,1,0
+1758005500247,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,57,0,0
+1758005500247,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,57,0,0
+1758005500305,51,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,51,0,0
+1758005500304,51,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,51,2,0
+1758005500357,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,48,0,0
+1758005500357,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,48,0,0
+1758005500406,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005500406,48,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,48,0,0
+1758005500406,48,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,48,1,0
+1758005500455,54,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005500455,54,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,54,1,0
+1758005500510,54,HTTP请求,400,,线程组 1-1,text,false,,780,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,54,0,0
+1758005500510,54,新增试卷,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,780,1088,1,1,null,54,0,0
+1758005500564,54,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005500564,54,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,54,1,0
+1758005500619,48,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,48,0,0
+1758005500619,48,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,48,0,0
+1758005500667,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005500668,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005500667,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,1,0
+1758005500717,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005500717,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,1,0
+1758005500771,58,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,58,0,0
+1758005500771,58,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,58,0,0
+1758005500829,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005500829,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,1,0
+1758005500883,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005500883,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005500932,1,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005500933,48,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,48,0,0
+1758005500933,48,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,48,0,0
+1758005500981,54,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005500981,54,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,54,0,0
+1758005501035,60,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,60,0,0
+1758005501035,60,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,60,0,0
+1758005501095,52,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005501095,52,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,52,1,0
+1758005501148,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005501148,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,0,0
+1758005501198,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005501198,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005501198,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005501247,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005501247,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,0,0
+1758005501299,56,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,56,0,0
+1758005501299,56,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,56,0,0
+1758005501355,52,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005501355,52,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,52,1,0
+1758005501408,48,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,48,0,0
+1758005501408,48,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,48,0,0
+1758005501456,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005501456,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005501456,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005501505,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005501505,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,0,0
+1758005501558,58,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,58,0,0
+1758005501558,58,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,58,0,0
+1758005501617,52,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005501616,52,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,52,1,0
+1758005501670,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005501669,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,1,0
+1758005501720,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005501720,48,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,48,0,0
+1758005501720,48,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,48,1,0
+1758005501769,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005501769,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,0,0
+1758005501822,62,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,62,0,0
+1758005501822,62,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,62,0,0
+1758005501884,52,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005501884,52,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,52,1,0
+1758005501937,52,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,52,0,0
+1758005501937,52,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,52,0,0
+1758005501989,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005501989,48,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,48,0,0
+1758005501989,48,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,48,0,0
+1758005502037,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005502037,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,0,0
+1758005502090,55,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,55,0,0
+1758005502090,55,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,55,0,0
+1758005502145,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005502145,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,0,0
+1758005502198,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005502198,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005502247,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005502247,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005502247,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005502297,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005502296,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,2,0
+1758005502350,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,57,0,0
+1758005502350,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,57,0,0
+1758005502407,52,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005502407,52,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,52,1,0
+1758005502460,49,HTTP请求,200,,线程组 1-1,text,true,,462,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005502460,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,462,334,1,1,null,49,0,0
+1758005502509,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005502509,193,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,193,0,144
+1758005502509,193,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,193,0,144
+1758005502702,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005502702,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,1,0
+1758005502755,56,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,55,0,0
+1758005502755,56,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,55,0,0
+1758005502811,51,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,51,0,0
+1758005502811,51,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,51,1,0
+1758005502863,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005502863,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005502912,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005502912,47,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,47,0,0
+1758005502912,47,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,47,0,0
+1758005502960,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005502959,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,1,0
+1758005503012,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,57,0,0
+1758005503012,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,57,0,0
+1758005503070,51,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,51,0,0
+1758005503069,51,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,51,2,0
+1758005503122,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005503122,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005503171,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005503171,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005503171,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005503220,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005503220,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,0,0
+1758005503272,58,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,58,0,0
+1758005503272,58,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,58,0,0
+1758005503331,51,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,51,0,0
+1758005503330,51,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,51,2,0
+1758005503383,51,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,51,0,0
+1758005503383,51,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,51,0,0
+1758005503434,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005503434,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005503434,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,1,0
+1758005503484,60,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,60,0,0
+1758005503484,60,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,60,1,0
+1758005503545,55,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,55,0,0
+1758005503545,55,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,55,0,0
+1758005503601,52,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005503600,52,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,52,2,0
+1758005503654,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005503654,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,0,0
+1758005503705,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005503705,48,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,48,0,0
+1758005503705,48,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,48,0,0
+1758005503753,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005503753,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,0,0
+1758005503806,58,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,58,0,0
+1758005503806,58,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,58,0,0
+1758005503864,51,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,51,0,0
+1758005503864,51,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,51,1,0
+1758005503916,47,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,47,0,0
+1758005503916,47,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,47,0,0
+1758005503963,1,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005503964,51,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,51,0,0
+1758005503964,51,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,51,0,0
+1758005504015,51,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,51,0,0
+1758005504015,51,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,51,1,0
+1758005504067,54,HTTP请求,400,,线程组 1-1,text,false,,780,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,54,0,0
+1758005504067,54,新增试卷,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,780,1088,1,1,null,54,0,0
+1758005504122,52,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005504121,52,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,52,2,0
+1758005504175,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005504175,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005504224,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005504224,48,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,48,0,0
+1758005504224,48,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,48,0,0
+1758005504272,51,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,51,0,0
+1758005504272,51,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,51,1,0
+1758005504324,56,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,56,0,0
+1758005504324,56,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,56,0,0
+1758005504380,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005504380,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,1,0
+1758005504434,51,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,51,0,0
+1758005504434,51,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,51,0,0
+1758005504485,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005504485,47,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,47,0,0
+1758005504485,47,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,47,0,0
+1758005504533,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005504532,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,1,0
+1758005504586,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,57,0,0
+1758005504586,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,57,0,0
+1758005504643,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005504643,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,1,0
+1758005504697,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005504697,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,0,0
+1758005504747,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005504747,61,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,61,0,0
+1758005504747,61,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,61,1,0
+1758005504809,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005504809,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,0,0
+1758005504861,58,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,58,0,0
+1758005504861,58,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,58,0,0
+1758005504920,52,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005504919,52,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,52,2,0
+1758005504973,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005504973,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005505022,1,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005505023,48,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,48,0,0
+1758005505023,48,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,48,0,0
+1758005505072,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005505071,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,1,0
+1758005505124,58,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,58,0,0
+1758005505124,58,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,58,0,0
+1758005505182,60,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,60,0,0
+1758005505182,60,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,60,1,0
+1758005505243,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005505243,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,0,0
+1758005505293,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005505294,47,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,47,0,0
+1758005505293,47,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,47,1,0
+1758005505341,56,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,56,0,0
+1758005505341,56,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,56,1,0
+1758005505398,52,HTTP请求,400,,线程组 1-1,text,false,,780,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,52,0,0
+1758005505398,52,新增试卷,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,780,1088,1,1,null,52,0,0
+1758005505450,54,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005505450,54,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,54,1,0
+1758005505505,48,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,48,0,0
+1758005505505,48,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,48,0,0
+1758005505553,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005505553,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005505553,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,1,0
+1758005505603,51,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,51,0,0
+1758005505603,51,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,51,0,0
+1758005505655,55,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,55,0,0
+1758005505654,55,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,55,1,0
+1758005505711,51,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,51,0,0
+1758005505710,51,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,51,2,0
+1758005505763,50,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005505763,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,1,0
+1758005505814,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005505814,51,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,51,0,0
+1758005505814,51,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,51,0,0
+1758005505865,51,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,51,0,0
+1758005505865,51,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,51,1,0
+1758005505917,55,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,55,0,0
+1758005505917,55,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,55,0,0
+1758005505973,51,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,51,0,0
+1758005505972,51,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,51,2,0
+1758005506025,48,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,48,0,0
+1758005506025,48,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,48,0,0
+1758005506073,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005506073,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005506073,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005506122,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005506122,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,0,0
+1758005506174,55,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,55,0,0
+1758005506174,55,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,55,0,0
+1758005506230,51,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,51,0,0
+1758005506229,51,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,51,2,0
+1758005506282,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005506282,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005506331,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005506331,51,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,51,0,0
+1758005506331,51,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,51,0,0
+1758005506382,58,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,58,0,0
+1758005506382,58,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,58,0,0
+1758005506440,60,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,60,0,0
+1758005506440,60,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,60,0,0
+1758005506501,52,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005506500,52,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,52,2,0
+1758005506554,51,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,51,0,0
+1758005506554,51,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,51,0,0
+1758005506605,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005506605,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005506605,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005506654,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005506654,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,0,0
+1758005506707,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,57,0,0
+1758005506707,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,57,0,0
+1758005506765,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005506764,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,2,0
+1758005506819,48,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,48,0,0
+1758005506819,48,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,48,0,0
+1758005506867,1,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005506868,47,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,47,0,0
+1758005506868,47,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,47,0,0
+1758005506915,51,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,51,0,0
+1758005506915,51,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,51,0,0
+1758005506966,54,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,54,0,0
+1758005506966,54,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,54,0,0
+1758005507021,51,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,51,0,0
+1758005507020,51,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,51,2,0
+1758005507073,48,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,48,0,0
+1758005507073,48,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,48,0,0
+1758005507121,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005507121,48,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,48,0,0
+1758005507121,48,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,48,0,0
+1758005507169,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005507169,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,0,0
+1758005507222,54,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,54,0,0
+1758005507222,54,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,54,1,0
+1758005507277,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005507277,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,52,0,0
+1758005507330,48,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,48,0,0
+1758005507330,48,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,48,1,0
+1758005507379,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005507379,47,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,47,0,0
+1758005507379,47,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,47,0,0
+1758005507426,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005507426,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,0,0
+1758005507479,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,57,0,0
+1758005507478,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,57,1,0
+1758005507536,57,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,57,0,0
+1758005507536,57,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,57,1,0
+1758005507594,51,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,51,0,0
+1758005507594,51,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,51,0,0
+1758005507645,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005507645,52,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,51,0,0
+1758005507645,52,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,51,0,0
+1758005507697,51,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,51,0,0
+1758005507697,51,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,51,1,0
+1758005507749,58,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,58,0,0
+1758005507749,58,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,58,0,0
+1758005507808,52,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005507807,52,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,52,2,0
+1758005507861,50,HTTP请求,200,,线程组 1-1,text,true,,462,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005507861,50,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,462,334,1,1,null,49,0,0
+1758005507911,0,调试取样器,200,OK,线程组 1-1,text,true,,472,0,1,1,null,0,0,0
+1758005507911,230,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,230,0,182
+1758005507911,230,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,230,0,182
+1758005508141,54,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005508141,54,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,54,1,0
+1758005508196,61,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,61,0,0
+1758005508196,61,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,61,0,0
+1758005508257,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005508257,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,53,1,0
+1758005508311,52,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,52,0,0
+1758005508311,52,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,52,0,0
+1758005508363,0,调试取样器,200,OK,线程组 1-1,text,true,,473,0,1,1,null,0,0,0
+1758005508363,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005508363,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005508412,52,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005508412,52,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,52,1,0
+1758005508465,59,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,59,0,0
+1758005508465,59,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,59,0,0
+1758005508525,53,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005508524,53,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,52,1,0
+1758005508578,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005508578,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005508627,0,调试取样器,200,OK,线程组 1-1,text,true,,473,0,1,1,null,0,0,0
+1758005508627,49,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,49,0,0
+1758005508627,49,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,49,0,0
+1758005508677,58,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,58,0,0
+1758005508676,58,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,58,1,0
+1758005508735,58,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,58,0,0
+1758005508735,58,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,58,0,0
+1758005508794,56,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,56,0,0
+1758005508793,56,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,56,2,0
+1758005508851,51,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,50,0,0
+1758005508851,51,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,50,0,0
+1758005508902,0,调试取样器,200,OK,线程组 1-1,text,true,,473,0,1,1,null,0,0,0
+1758005508902,48,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,48,0,0
+1758005508902,48,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,48,0,0
+1758005508951,53,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,53,0,0
+1758005508950,53,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,53,2,0
+1758005509005,55,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,55,0,0
+1758005509005,55,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,55,0,0
+1758005509060,55,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,55,0,0
+1758005509060,55,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,55,1,0
+1758005509116,48,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,48,0,0
+1758005509116,48,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,48,0,0
+1758005509164,0,调试取样器,200,OK,线程组 1-1,text,true,,473,0,1,1,null,0,0,0
+1758005509165,48,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,48,0,0
+1758005509164,48,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,48,2,0
+1758005509214,54,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,54,0,0
+1758005509214,54,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,54,0,0
+1758005509268,57,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,57,0,0
+1758005509268,57,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,57,0,0
+1758005509326,52,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005509325,52,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,52,2,0
+1758005509379,49,HTTP请求,200,,线程组 1-1,text,true,,467,334,1,1,https://lite.yfhl.net/exam/api/sys/user/logout,49,0,0
+1758005509379,49,退出登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,467,334,1,1,null,49,0,0
+1758005509428,0,调试取样器,200,OK,线程组 1-1,text,true,,473,0,1,1,null,0,0,0
+1758005509428,51,HTTP请求,200,,线程组 1-1,text,true,,605,247,1,1,https://lite.yfhl.net/exam/api/sys/user/login,51,0,0
+1758005509428,51,登录,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,605,247,1,1,null,51,0,0
+1758005509479,57,HTTP请求,200,,线程组 1-1,text,true,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,57,0,0
+1758005509479,57,获取考试信息,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,3211,445,1,1,null,57,0,0
+1758005509536,61,HTTP请求,200,,线程组 1-1,text,true,,362,1088,1,1,https://lite.yfhl.net/exam/api/exam/exam/save,61,0,0
+1758005509536,61,新增试卷,200,"Number of samples in transaction : 1, number of failing samples : 0",线程组 1-1,,true,,362,1088,1,1,null,61,0,0
+1758005509598,52,HTTP请求,200,,线程组 1-1,text,false,,3211,445,1,1,https://lite.yfhl.net/exam/api/exam/exam/paging,52,0,0
+1758005509597,52,获取考试信息,,"Number of samples in transaction : 1, number of failing samples : 1",线程组 1-1,,false,,3211,445,1,1,null,52,2,0
