@@ -1,7 +1,7 @@
 {
   "获取考试信息" : {
     "transaction" : "获取考试信息",
-    "sampleCount" : 120,
+    "sampleCount" : 12,
     "errorCount" : 60,
     "errorPct" : 50.0,
     "meanResTime" : 52.86666666666666,
